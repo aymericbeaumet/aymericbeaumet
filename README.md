@@ -1,6 +1,4 @@
-### Welcome to my profile :bow:
-
-:wave: My name's Aymeric, I'm a Software Engineer from France which is lucky enough to live from his passion.
+:wave: My name's Aymeric, I'm a Software Engineer which is lucky enough to live from his passion.
 
 🔭 My day-to-day job involves working on Infrastructure and Backend systems (Go, Rust, Kubernetes).
 
