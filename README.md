@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome :bow:
 
-My name's Aymeric, I'm a Software Engineer from France.
+My name's Aymeric, I'm a Software Engineer from France. I'm lucky enough to now live from my passion.
 
 🔭 My day-to-day job involves working on Infrastructure and Backend systems (Go, Rust, Kubernetes).
 
