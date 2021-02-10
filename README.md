@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name's Aymeric, I'm a Software Engineer from France.
+
 🔭 I'm working on Infrastructure and Backend systems (Go, Rust, Kubernetes).
 
 🌱 I’m currently learning data science and machine learning.
