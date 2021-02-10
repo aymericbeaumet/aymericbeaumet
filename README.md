@@ -1,4 +1,4 @@
-### Welcome :bow:
+### Welcome to my profile :bow:
 
 My name's Aymeric, I'm a Software Engineer from France. I'm lucky enough to now live from my passion.
 
