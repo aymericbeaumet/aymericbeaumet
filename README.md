@@ -4,4 +4,4 @@
 
 ⚡ I'm regularly posting to [my blog](https://aymericbeaumet.com/), you might like what you find there.
 
-📫 You can reach out to me by [mail](hi@aymericbeaumet.com) or on [Twitter](https://twitter.com/aymericbeaumet).
+📫 You can reach out to me by [mail](mailto:hi@aymericbeaumet.com) or on [Twitter](https://twitter.com/aymericbeaumet).
