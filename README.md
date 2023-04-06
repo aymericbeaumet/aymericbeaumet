@@ -1,6 +1,6 @@
 :wave: My name's Aymeric, I'm a Software Engineer living in Paris, France.
 
-🔭 Keen interest in Rust and Go.
+🔭 I have a keen interest in Rust. I also like Go.
 
 ✍️ I sometime write on my [blog](https://aymericbeaumet.com/).
 
