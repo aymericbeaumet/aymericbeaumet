@@ -1,6 +1,4 @@
-:wave: My name's Aymeric.
-
-:fr: I'm a Software Engineer living in Paris, France.
+:wave: My name's Aymeric, I'm a Software Engineer living in Paris, France.
 
 🔭 Keen interest in Rust and Go.
 
