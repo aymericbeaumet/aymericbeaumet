@@ -2,8 +2,6 @@
 
 🔭 I have a keen interest in Go, Rust, and the latest AI breakthroughs.
 
-💻 I'm currently CTO at [Heart Hands](https://www.hearthands.tech/), where we leverage the latest AI breakthroughs to build the future of communications.
+💻 I'm currently CTO at [Heart Hands](https://www.hearthands.tech/), where we are focused building the future of communications.
 
-✍️ I sometimes share my experiences & projects on my [blog](https://aymericbeaumet.com/).
-
-📫 You can reach out to me by [mail](mailto:hi@aymericbeaumet.com) or on [X](https://x.com/aymericbeaumet).
+✍️ I sometimes write about my experiences & projects on my [blog](https://aymericbeaumet.com/).
