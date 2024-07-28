@@ -4,6 +4,6 @@
 
 💻 I'm currently CTO at [Heart Hands](https://www.hearthands.tech/), where we leverage the latest AI breakthroughs to build the future of communications.
 
-✍️ I sometime write on my [blog](https://aymericbeaumet.com/).
+✍️ I sometimes share my experiences & projects on my [blog](https://aymericbeaumet.com/).
 
 📫 You can reach out to me by [mail](mailto:hi@aymericbeaumet.com) or on [X](https://x.com/aymericbeaumet).
