@@ -2,6 +2,6 @@
 
 🔭 I have a keen interest in Go, Rust, and the latest AI breakthroughs.
 
-💻 I'm currently Co-Founder & CTO at [Heart Hands](https://www.hearthands.tech/).
+💻 I am Co-Founder & CTO at [Heart Hands](https://www.hearthands.tech/).
 
 ✍️ I sometimes write about my experiences & projects on my [blog](https://aymericbeaumet.com/).
