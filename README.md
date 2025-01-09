@@ -1,4 +1,4 @@
-👋 My name's Aymeric, I am Co-Founder & CTO at [Heart Hands, Inc](https://www.hearthands.tech/).
+👋 My name's Aymeric, I am Co-Founder & CTO at [Interface, Inc](https://interface.inc).
 
 🔭 I have a keen interest in Go, Rust, and the latest AI breakthroughs.
 
